@@ -1,0 +1,30 @@
+_repo: The-Age-of-Dryden_39817
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Garnett, Richard
+    alias: Trent, A. G.
+    birthdate: 1835
+    deathdate: 1906
+    gutenberg_agent_id: '3305'
+    url: http://www.gutenberg.org/2009/agents/3305
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Garnett_%28writer%29
+description: ''
+gutenberg_issued: '2012-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39817'
+  lccn: '02025063'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dryden, John, 1631-1700'
+- !lcc 'PR'
+- !lcsh 'English literature -- Early modern, 1500-1700 -- History and criticism'
+title: The Age of Dryden
+url: http://www.gutenberg.org/ebooks/39817
